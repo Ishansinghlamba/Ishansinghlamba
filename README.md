@@ -47,9 +47,9 @@ You can click the Preview link to take a look at your changes. -->
 
 <br/>
     <a href="https://github.com/Ishansinghlamba
-/github-readme-stats"><img alt="Ishan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pulkit0111&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+/github-readme-stats"><img alt="Ishan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishansinghlamba&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ishansinghlamba
-/github-readme-stats"><img alt="Pulkit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit0111&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+/github-readme-stats"><img alt="Ishan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishansinghlamba&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
