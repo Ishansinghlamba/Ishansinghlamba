@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes. -->
 <a href="https://www.linkedin.com/in/ishan-singh-lamba-2913ba42/">
   <img align="left" alt="Ishan's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/1994_TJAY">
+<!-- <a href="https://twitter.com/1994_TJAY">
   <img align="left" alt="Pulkit Tyagi | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
 <br/>
 <br/>
