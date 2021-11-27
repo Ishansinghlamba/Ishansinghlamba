@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes. -->
 - 🌱 Proficient in **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
 - 💬 Ask me about Graphic Novels (PS:- **Batman: The Killing Joke** is the best one.)
--⚽️ Passionate about football
+- ⚽️ Passionate about football
 -  📫 How to reach me **sahaj1997@gmail.com**
 -  ## 🚀 Languages and Tools:
 
