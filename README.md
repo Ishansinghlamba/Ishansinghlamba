@@ -16,7 +16,6 @@
 - 🔭 Proficient in **MERN Stack**
 - 🌱 Proficient in **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
-- 💬 Ask me about Graphic Novels (PS:- **Batman: The Killing Joke** is the best one.)
 - ⚽️ Passionate about football
 -  📫 How to reach me **sahaj1997@gmail.com**
 -  ## 🚀 Languages and Tools:
