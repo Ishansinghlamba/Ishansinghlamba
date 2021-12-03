@@ -10,7 +10,7 @@
 
 
 ## About Me
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in Bsc in Mathematics and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>A Full-stack web developer</b> with a bachelors in Mathematics and an interest in coding. Working with MERN stack and open to learn new technologies. Always like the logical thinking from the begining and how software engineering is all about logical flow makes me motivated to do good in this field. Always open to interact with other people and if you have an idea or just wanted to have a word with me, just ping me on Linkedin.
 
 
 - 🔭 Proficient in **MERN Stack**
@@ -43,6 +43,3 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<!-- - ⚡ Know More: <a href="https://pulkit-portfolio.vercel.app/">Pulkit's Portfolio</a> 
- -->
